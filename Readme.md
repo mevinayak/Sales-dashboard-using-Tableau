@@ -27,4 +27,4 @@ Efficiency: Rather than sifting through raw data or multiple reports, stakeholde
 
 Resource Optimization: Understand which genres, platforms, or publishers are underperforming and reallocate resources to more profitable avenues.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/mevinayak/Sales-dashboard-using-Tableau/blob/main/Dashboard%201.png)
