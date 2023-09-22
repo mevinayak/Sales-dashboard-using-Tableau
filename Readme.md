@@ -1,7 +1,7 @@
-##Summary:
+## Summary:
 Developed a comprehensive Sales Dashboard in Tableau that provides a granular view into the sales performance metrics across genres, platforms, publishers, and timeframes. This dynamic tool offers stakeholders actionable insights for informed decision-making and streamlined business operations.
 
-##Dashboard Features:
+## Dashboard Features:
 
 Total Sales by Genre: Gain a macro view of how each genre performs, enabling strategic focus on top-selling and underperforming genres.
 
@@ -15,7 +15,7 @@ Top 10 Publishers by Sales: Recognize the leading publishers to foster stronger 
 
 Data Count Metrics: Quick insights into the total number of unique names, genres, publishers, and platforms in the dataset. This helps in understanding the dataset's scope and diversity.
 
-##Utility & Benefits:
+## Utility & Benefits:
 
 Dynamic Interactivity: The dashboard is not static; users can interact with data, drill down for details, and customize views to meet specific analytical needs.
 
