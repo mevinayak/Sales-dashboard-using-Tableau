@@ -26,3 +26,5 @@ Trend Analysis: By tracking sales metrics over time, the organization can antici
 Efficiency: Rather than sifting through raw data or multiple reports, stakeholders can access all pertinent sales data in one central location.
 
 Resource Optimization: Understand which genres, platforms, or publishers are underperforming and reallocate resources to more profitable avenues.
+
+![alt text](http://url/to/img.png)
