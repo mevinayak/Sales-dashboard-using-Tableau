@@ -1,6 +1,8 @@
 ## Summary:
 Developed a comprehensive Sales Dashboard in Tableau that provides a granular view into the sales performance metrics across genres, platforms, publishers, and timeframes. This dynamic tool offers stakeholders actionable insights for informed decision-making and streamlined business operations.
 
+Link: https://public.tableau.com/app/profile/kumar.vinayak3360/viz/Video_games_sales_dashboard_16954030373320/Dashboard1?publish=yes
+
 ## Dashboard Features:
 
 Total Sales by Genre: Gain a macro view of how each genre performs, enabling strategic focus on top-selling and underperforming genres.
